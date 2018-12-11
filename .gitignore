@@ -1,1 +1,5 @@
-torrents
+# ignore some log files
+completed-years.txt
+
+# ignore torrents directory
+torrents/*

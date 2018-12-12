@@ -7,7 +7,8 @@ Scripts to download the Wikipedia page views.
 
 1. clone the repository
 ```
-git clone https://github.com/CristianCantoro/pagecounts-download-tools
+╭─ ~
+╰─$ git clone https://github.com/CristianCantoro/pagecounts-download-tools
 ```
 2. go to the `sizes` directory and execute the download sizes:
 ```

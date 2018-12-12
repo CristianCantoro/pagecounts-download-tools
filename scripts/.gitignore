@@ -1,0 +1,2 @@
+# ignore .pid files
+*.pid
